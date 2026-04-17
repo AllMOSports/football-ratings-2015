@@ -22,7 +22,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run ratings script
-        run: python football_ratings_2018.py
+        run: python football_ratings_2015.py
 
       - name: Commit and push football_ratings_2015.json
         run: |
