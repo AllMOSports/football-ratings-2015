@@ -1,6 +1,4 @@
 Date,Home Team,Home Score,Away Team,Away Score
-2015-08-14,North Platte,18,Braymer with Breckenridge,6
-2015-08-14,Braymer with Breckenridge,6,Crest Ridge,24
 2015-08-21,Butler,32,Adrian,14
 2015-08-21,Harrisonville,17,Benton,14
 2015-08-21,Pembroke Hill,0,Bishop LeBlond,41
@@ -34,7 +32,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,Maysville,8,East Buchanan,52
 2015-08-21,Stockton,15,El Dorado Springs,20
 2015-08-21,Lafayette (Wildwood),13,Eureka,35
-2015-08-21,Harrisburg,6,Father Tolton,54
+2015-08-21,Harrisburg,6,Father Tolton with Calvary Lutheran,54
 2015-08-21,Westminster Christian Academy,27,Festus,7
 2015-08-21,Raytown South,14,Fort Osage,27
 2015-08-21,Poplar Bluff,33,Fox,3
@@ -43,7 +41,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,Troy Buchanan,6,Ft. Zumwalt South,34
 2015-08-21,Holt,13,Ft. Zumwalt West,55
 2015-08-21,Osage,21,Fulton,33
-2015-08-21,North Platte,2,Gallatin,0
 2015-08-21,Joplin,56,Glendale,48
 2015-08-21,Fayette,0,Hallsville,28
 2015-08-21,MICDS,9,Hannibal,34
@@ -53,7 +50,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,Centralia,48,Highland,19
 2015-08-21,Houston,16,Hollister,7
 2015-08-21,Sarcoxie,6,Jasper,28
-2015-08-21,Jefferson (Festus),24,John F. Kennedy with Valley Park,34
 2015-08-21,East Prairie,41,Kelly,0
 2015-08-21,Parkview,3,Kickapoo,35
 2015-08-21,Lindbergh,7,Kirkwood,35
@@ -63,7 +59,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,Truman,0,Lee's Summit,33
 2015-08-21,Lockwood with Golden City,55,Liberal with Bronaugh,8
 2015-08-21,Lee's Summit West,35,Liberty,9
-2015-08-21,Transportation and Law,8,Liberty (Wentzville),20
+2015-08-21,Transportation and Law with Beaumont,8,Liberty (Wentzville),20
 2015-08-21,Rich Hill with Hume,0,Lincoln,40
 2015-08-21,Mountain Grove,51,Logan-Rogersville,0
 2015-08-21,Wellington-Napoleon,50,Lone Jack,16
@@ -77,10 +73,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,Lawson,0,Maryville,39
 2015-08-21,Miller Career Academy,27,McCluer,14
 2015-08-21,Jefferson City,64,McCluer North,34
-2015-08-21,Neosho with Neosho Christian,46,McDonald County,6
-2015-08-21,King City with Union Star,14,Mid-Buchanan,28
+2015-08-21,King City with Pattonsburg,14,Mid-Buchanan,28
 2015-08-21,Princeton with Mercer,25,Milan,29
-2015-08-21,Marionville,45,Miller with Everton,16
 2015-08-21,Blair Oaks,42,Moberly,18
 2015-08-21,Lamar,52,Mt. Vernon,6
 2015-08-21,Helias Catholic,9,Nixa,31
@@ -93,7 +87,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-21,St. Pius X (Kansas City),14,Odessa,33
 2015-08-21,Richmond,14,O'Hara,20
 2015-08-21,Veritas Christian Academy,34,Orchard Farm,24
-2015-08-21,Braymer with Breckenridge,47,Orrick,12
 2015-08-21,Midway,14,Osceola,21
 2015-08-21,St. Francis Borgia,55,Owensville,16
 2015-08-21,Bolivar,28,Ozark,7
@@ -178,8 +171,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-28,Owensville,19,Blair Oaks,48
 2015-08-28,Fort Osage,30,Blue Springs,16
 2015-08-28,Branson,6,Bolivar,52
-2015-08-28,Slater,6,Braymer with Breckenridge,29
-2015-08-28,John F. Kennedy with Valley Park,18,Brentwood,54
 2015-08-28,Highland,7,Brookfield,49
 2015-08-28,Pleasant Hope,0,Buffalo,36
 2015-08-28,Sherwood,6,Butler,46
@@ -226,7 +217,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-28,Parkview,28,Joplin,29
 2015-08-28,Liberty,14,Kearney,49
 2015-08-28,Confluence Prep Academy Charter,14,Kennett,54
-2015-08-28,Milan,12,King City with Union Star,14
+2015-08-28,Milan,12,King City with Pattonsburg,14
 2015-08-28,McCluer North,22,Kirkwood,35
 2015-08-28,Scotland County,8,Knox County,22
 2015-08-28,Carthage,36,Lafayette (St. Joseph),0
@@ -242,7 +233,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-28,Blue Springs South,38,Liberty North,6
 2015-08-28,Cardinal Ritter,44,Lift for Life Academy Charter,6
 2015-08-28,Pattonville,44,Lindbergh,12
-2015-08-28,Father Tolton,44,Lutheran St. Charles,46
+2015-08-28,Father Tolton with Calvary Lutheran,44,Lutheran St. Charles,46
 2015-08-28,Caruthersville,28,Malden,29
 2015-08-28,Willow Springs,7,Marionville,46
 2015-08-28,Northwest (Cedar Hill),0,Marquette,42
@@ -253,7 +244,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-28,Macon,26,Monroe City,22
 2015-08-28,Winfield,48,Montgomery County,14
 2015-08-28,Cassville,6,Mountain Grove,15
-2015-08-28,Logan-Rogersville,0,Neosho with Neosho Christian,46
 2015-08-28,Center,31,Nevada,7
 2015-08-28,Tipton,8,North Callaway,22
 2015-08-28,Belton,26,North Kansas City,7
@@ -321,7 +311,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-08-29,Ladue Horton Watkins,54,Jennings,13
 2015-08-29,Roosevelt,8,John Burroughs,77
 2015-08-29,University City,47,McCluer South-Berkeley,8
-2015-08-29,Transportation and Law,6,MICDS,42
+2015-08-29,Transportation and Law with Beaumont,6,MICDS,42
 2015-08-29,Vashon,20,Miller Career Academy,0
 2015-08-29,Parkway Central,49,Normandy Collaborative,8
 2015-08-29,Smithville,6,Park Hill,35
@@ -387,7 +377,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-04,Marquette,41,Jackson,21
 2015-09-04,Pierce City,14,Jasper,27
 2015-09-04,Herculaneum,8,Jefferson (Festus),45
-2015-09-04,Father Tolton,44,John F. Kennedy with Valley Park,6
 2015-09-04,Liberty North,21,Kearney,10
 2015-09-04,Joplin,28,Kickapoo,55
 2015-09-04,Moberly,16,Kirksville,0
@@ -406,7 +395,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-04,Portageville,8,Malden,62
 2015-09-04,Van-Far with Community,0,Mark Twain,41
 2015-09-04,Reeds Spring,29,Marshfield,20
-2015-09-04,Braymer with Breckenridge,12,Maysville,30
 2015-09-04,Normandy Collaborative,22,McCluer,25
 2015-09-04,Cassville,42,McDonald County,14
 2015-09-04,Lindbergh,21,Mehlville,41
@@ -418,7 +406,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-04,Wright City,52,Montgomery County,7
 2015-09-04,Ava,14,Mountain Grove,46
 2015-09-04,Seneca,14,Mt. Vernon,26
-2015-09-04,Willard,41,Neosho with Neosho Christian,38
 2015-09-04,Lee's Summit North,42,North Kansas City,6
 2015-09-04,Lexington,51,Northeast (Kansas City),0
 2015-09-04,Lincoln College Prep,14,Oak Grove,50
@@ -441,7 +428,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-04,Excelsior Springs,47,Richmond,13
 2015-09-04,Battle,27,Rock Bridge,20
 2015-09-04,Schuyler County,6,Salisbury,14
-2015-09-04,Miller with Everton,20,Sarcoxie,21
 2015-09-04,Smithville,31,Savannah,0
 2015-09-04,East Prairie,40,Scott City,34
 2015-09-04,Van Horn,43,Sherwood,0
@@ -486,7 +472,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-05,Lutheran South,7,MICDS,10
 2015-09-05,Crystal City,30,Principia,0
 2015-09-05,Parkway West,7,Rockwood Summit,35
-2015-09-05,Roosevelt,14,Transportation and Law,33
+2015-09-05,Roosevelt,14,Transportation and Law with Beaumont,33
 2015-09-05,Southeast,12,University Academy Charter,56
 2015-09-05,Cleveland NJROTC,0,Vashon,67
 2015-09-05,Lutheran North,6,Westminster Christian Academy,35
@@ -497,11 +483,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-11,Midway,34,Appleton City with Montrose,0
 2015-09-11,Slater,0,Archie,54
 2015-09-11,Grandview,26,Belton,42
-2015-09-11,John F. Kennedy with Valley Park,8,Bishop DuBourg,56
 2015-09-11,Raymore-Peculiar,0,Blue Springs South,28
 2015-09-11,Hollister,0,Bolivar,74
-2015-09-11,Neosho with Neosho Christian,35,Branson,6
-2015-09-11,King City with Union Star,50,Braymer with Breckenridge,20
 2015-09-11,Orchard Farm,7,Brentwood,39
 2015-09-11,Van Horn,20,Butler,47
 2015-09-11,Houston,21,Cabool,7
@@ -572,7 +555,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-11,East Newton,6,McDonald County,41
 2015-09-11,Seckman,21,Mehlville,14
 2015-09-11,North Shelby,6,Milan,41
-2015-09-11,Jasper,57,Miller with Everton,6
 2015-09-11,Normandy Collaborative,0,Miller Career Academy,38
 2015-09-11,Grandview (Hillsboro),24,Missouri Military Academy,38
 2015-09-11,Fulton,35,Moberly,6
@@ -667,7 +649,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-18,Hallsville,0,California,28
 2015-09-18,St. Francis Borgia,32,Cardinal Ritter,56
 2015-09-18,McDonald County,0,Carl Junction,41
-2015-09-18,Neosho with Neosho Christian,19,Carthage,20
 2015-09-18,Monett,34,Cassville,6
 2015-09-18,St. Pius X (Kansas City),0,Center,35
 2015-09-18,Ladue Horton Watkins,38,Central (Cape Girardeau),35
@@ -687,7 +668,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-18,Malden,38,East Prairie,20
 2015-09-18,Warsaw,7,Eldon,65
 2015-09-18,Stockton,0,Fair Grove,40
-2015-09-18,Tipton,0,Father Tolton,47
+2015-09-18,Tipton,0,Father Tolton with Calvary Lutheran,47
 2015-09-18,Hillsboro,44,Festus,28
 2015-09-18,Francis Howell Central,14,Francis Howell North,35
 2015-09-18,Ste. Genevieve,35,Fredericktown,7
@@ -696,7 +677,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-18,Francis Howell,34,Ft. Zumwalt West,3
 2015-09-18,Marshall,35,Fulton,53
 2015-09-18,South Harrison,41,Gallatin,8
-2015-09-18,Transportation and Law,0,Gateway,50
+2015-09-18,Transportation and Law with Beaumont,0,Gateway,50
 2015-09-18,Liberty North,28,Grandview,0
 2015-09-18,Valle Catholic,69,Grandview (Hillsboro),0
 2015-09-18,Excelsior Springs,7,Harrisonville,31
@@ -721,17 +702,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-18,Confluence Prep Academy Charter,26,Liberty (Wentzville),28
 2015-09-18,Sarcoxie,14,Lincoln,54
 2015-09-18,St. Paul Lutheran (Concordia),36,Lone Jack,0
-2015-09-18,John F. Kennedy with Valley Park,6,Lutheran St. Charles,35
 2015-09-18,Salisbury,0,Marceline,44
 2015-09-18,North Callaway,12,Mark Twain,49
 2015-09-18,Mehlville,0,Marquette,52
 2015-09-18,Bolivar,53,Marshfield,0
 2015-09-18,Cameron,0,Maryville,63
-2015-09-18,King City with Union Star,26,Maysville,8
+2015-09-18,King City with Pattonsburg,26,Maysville,8
 2015-09-18,Boonville,0,Mexico,47
 2015-09-18,East Buchanan,38,Mid-Buchanan,0
 2015-09-18,Drexel with Miami (Amoret),0,Midway,40
-2015-09-18,Pierce City,46,Miller with Everton,24
 2015-09-18,Macon,14,Moberly,28
 2015-09-18,Van-Far with Community,26,Montgomery County,7
 2015-09-18,Cabool,7,Mountain Grove,41
@@ -852,7 +831,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-25,Chaffee,22,East Prairie,36
 2015-09-25,University Academy Charter,24,El Dorado Springs,14
 2015-09-25,Normandy Collaborative,6,Farmington,42
-2015-09-25,St. Pius X (Festus),7,Father Tolton,34
+2015-09-25,St. Pius X (Festus),7,Father Tolton with Calvary Lutheran,34
 2015-09-25,Paris,30,Fayette,12
 2015-09-25,William Chrisman,21,Fort Osage,35
 2015-09-25,Ft. Zumwalt West,47,Francis Howell Central,24
@@ -870,19 +849,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-25,Ava,28,Houston,14
 2015-09-25,Central (Cape Girardeau),48,Jackson,35
 2015-09-25,Stockton,19,Jasper,28
-2015-09-25,Trinity Catholic,36,John F. Kennedy with Valley Park,22
 2015-09-25,Waynesville,25,Joplin,55
 2015-09-25,Winnetonka,7,Kearney,60
 2015-09-25,Charleston,18,Kelly,48
 2015-09-25,Dexter,38,Kennett,35
-2015-09-25,Gallatin,28,King City with Union Star,34
+2015-09-25,Gallatin,28,King City with Pattonsburg,34
 2015-09-25,Holden,28,Lafayette County,61
 2015-09-25,McDonald County,0,Lamar,73
 2015-09-25,North Platte,0,Lathrop,30
 2015-09-25,Raymore-Peculiar,14,Lee's Summit North,20
 2015-09-25,Lee's Summit,14,Lee's Summit West,34
 2015-09-25,Knob Noster,0,Lexington,76
-2015-09-25,Miller with Everton,42,Liberal with Bronaugh,18
 2015-09-25,Central (St. Joseph),43,Liberty,42
 2015-09-25,Tipton,6,Lincoln,42
 2015-09-25,Marquette,42,Lindbergh,0
@@ -900,7 +877,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-25,Scotland County,28,Milan,12
 2015-09-25,Brookfield,47,Monroe City,8
 2015-09-25,Liberty (Mountain View),28,Mountain Grove,12
-2015-09-25,Nixa,28,Neosho with Neosho Christian,35
 2015-09-25,South Callaway,20,North Callaway,12
 2015-09-25,Festus,28,North County,20
 2015-09-25,Staley,39,North Kansas City,0
@@ -936,7 +912,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-25,Nevada,33,Seneca,12
 2015-09-25,Parkway South,3,SLUH,42
 2015-09-25,O'Hara,21,Smith-Cotton,26
-2015-09-25,Braymer with Breckenridge,26,South Harrison,54
 2015-09-25,St. James,27,St. Clair,47
 2015-09-25,Cardinal Ritter,26,St. Dominic,20
 2015-09-25,Duchesne,0,St. Francis Borgia,37
@@ -974,7 +949,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-09-26,Westminster Christian Academy,49,Priory,21
 2015-09-26,McCluer,6,Riverview Gardens,0
 2015-09-26,Lift for Life Academy Charter,32,Roosevelt,22
-2015-09-26,Cleveland NJROTC,36,Transportation and Law,6
+2015-09-26,Cleveland NJROTC,36,Transportation and Law with Beaumont,6
 2015-09-26,Francis Howell North,42,Troy Buchanan,7
 2015-09-26,Parkway Central,21,University City,13
 2015-09-26,Soldan International Studies,14,Vashon,50
@@ -992,7 +967,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-02,California,15,Blair Oaks,42
 2015-10-02,Lee's Summit West,21,Blue Springs South,27
 2015-10-02,Logan-Rogersville,0,Bolivar,69
-2015-10-02,Polo,68,Braymer with Breckenridge,32
 2015-10-02,Lift for Life Academy Charter,12,Brentwood,60
 2015-10-02,Macon,6,Brookfield,26
 2015-10-02,Liberty (Mountain View),46,Cabool,8
@@ -1011,7 +985,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-02,Herculaneum,30,Crystal City,12
 2015-10-02,Lincoln,60,Cuba,14
 2015-10-02,Central (New Madrid County),20,Dexter,62
-2015-10-02,Miller with Everton,12,Diamond,47
 2015-10-02,Cardinal Ritter,50,Duchesne,35
 2015-10-02,Lamar,63,East Newton,6
 2015-10-02,Osage,49,Eldon,52
@@ -1035,7 +1008,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-02,Sikeston,0,Jackson,41
 2015-10-02,Grandview (Hillsboro),6,Jefferson (Festus),66
 2015-10-02,Confluence Prep Academy Charter,6,Jefferson City,56
-2015-10-02,Veritas Christian Academy,33,John F. Kennedy with Valley Park,12
 2015-10-02,West Plains,21,Kickapoo,42
 2015-10-02,Mexico,54,Kirksville,14
 2015-10-02,Lafayette County,62,Knob Noster,6
@@ -1064,7 +1036,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-02,Scotland County,12,Monroe City,30
 2015-10-02,South Callaway,57,Montgomery County,20
 2015-10-02,Cassville,16,Mt. Vernon,23
-2015-10-02,Webb City,35,Neosho with Neosho Christian,7
 2015-10-02,Aurora,29,Nevada,7
 2015-10-02,Ozark,7,Nixa,19
 2015-10-02,East Buchanan,32,North Platte,8
@@ -1083,7 +1054,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-02,El Dorado Springs,48,Pierce City,20
 2015-10-02,Kearney,36,Platte County,0
 2015-10-02,East Prairie,20,Portageville,40
-2015-10-02,King City with Union Star,28,Princeton with Mercer,6
+2015-10-02,King City with Pattonsburg,28,Princeton with Mercer,6
 2015-10-02,Blue Springs,21,Raymore-Peculiar,14
 2015-10-02,North Kansas City,13,Raytown,14
 2015-10-02,Kirkwood,42,Ritenour,2
@@ -1139,7 +1110,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-03,Hazelwood West,7,McCluer,20
 2015-10-03,Riverview Gardens,22,McCluer North,67
 2015-10-03,Roosevelt,6,Miller Career Academy,48
-2015-10-03,Father Tolton,93,Missouri Military Academy,13
+2015-10-03,Father Tolton with Calvary Lutheran,93,Missouri Military Academy,13
 2015-10-03,Affton,36,Normandy Collaborative,13
 2015-10-03,Southeast,19,Summit Christian Academy,30
 2015-10-03,John Burroughs,14,Westminster Christian Academy,27
@@ -1151,7 +1122,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-09,Moberly,34,Boonville,25
 2015-10-09,Montgomery County,28,Bowling Green,51
 2015-10-09,Willard,43,Branson,35
-2015-10-09,Princeton with Mercer,16,Braymer with Breckenridge,47
 2015-10-09,Liberty (Wentzville),8,Brentwood,53
 2015-10-09,Marshfield,43,Buffalo,0
 2015-10-09,Sarcoxie,12,Butler,61
@@ -1174,7 +1144,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-09,Lathrop,35,East Buchanan,54
 2015-10-09,Charleston,6,East Prairie,55
 2015-10-09,Ash Grove,17,Fair Grove,7
-2015-10-09,Cuba,22,Father Tolton,48
+2015-10-09,Cuba,22,Father Tolton with Calvary Lutheran,48
 2015-10-09,Salisbury,7,Fayette,35
 2015-10-09,St. Charles West,27,Festus,13
 2015-10-09,Liberty North,21,Fort Osage,14
@@ -1219,7 +1189,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-09,Fulton,39,Mexico,64
 2015-10-09,Lawson,43,Mid-Buchanan,14
 2015-10-09,Highland,8,Milan,22
-2015-10-09,Lockwood with Golden City,57,Miller with Everton,8
 2015-10-09,Gateway,47,Miller Career Academy,0
 2015-10-09,North Shelby,34,Missouri Military Academy,33
 2015-10-09,Clinton,3,Monett,35
@@ -1244,13 +1213,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-09,West Platte,26,Plattsburg,35
 2015-10-09,Excelsior Springs,28,Pleasant Hill,35
 2015-10-09,Stockton,49,Pleasant Hope,0
-2015-10-09,King City with Union Star,58,Polo,54
+2015-10-09,King City with Pattonsburg,58,Polo,54
 2015-10-09,Hillsboro,18,Poplar Bluff,35
 2015-10-09,North County,33,Potosi,14
 2015-10-09,Lee's Summit,28,Raymore-Peculiar,35
 2015-10-09,Winnetonka,25,Raytown South,47
 2015-10-09,Central (Springfield),24,Reeds Spring,35
-2015-10-09,Neosho with Neosho Christian,36,Republic,15
 2015-10-09,Archie,25,Rich Hill with Hume,42
 2015-10-09,Knob Noster,8,Richmond,49
 2015-10-09,Helias Catholic,25,Rockhurst,35
@@ -1289,7 +1257,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-09,Parkview,21,West Plains,43
 2015-10-09,Slater,8,Westran,70
 2015-10-09,Truman,28,William Chrisman,27
-2015-10-09,John F. Kennedy with Valley Park,36,Winfield,42
 2015-10-10,Van Horn,45,Central (Kansas City),12
 2015-10-10,Parkway West,22,Clayton,26
 2015-10-10,Affton,42,Cleveland NJROTC,12
@@ -1304,7 +1271,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-10,Hazelwood East,61,Riverview Gardens,14
 2015-10-10,Carnahan,16,Roosevelt,8
 2015-10-10,Gallatin,0,Summit Christian Academy,54
-2015-10-10,Sumner,28,Transportation and Law,6
+2015-10-10,Sumner,28,Transportation and Law with Beaumont,6
 2015-10-10,Ladue Horton Watkins,28,University City,21
 2015-10-15,Mt. Vernon,26,Central (Springfield),28
 2015-10-15,North Kansas City,0,Liberty North,57
@@ -1336,7 +1303,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-16,Grandview (Hillsboro),8,Crystal City,6
 2015-10-16,Potosi,0,DeSoto with Kingston,14
 2015-10-16,Malden,80,Dexter,51
-2015-10-16,Father Tolton,32,Diamond,14
+2015-10-16,Father Tolton with Calvary Lutheran,32,Diamond,14
 2015-10-16,Aurora,47,East Newton,7
 2015-10-16,Southern Boone,12,Eldon,23
 2015-10-16,Oak Grove,61,Excelsior Springs,26
@@ -1350,7 +1317,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-16,Vianney,63,Ft. Zumwalt South,27
 2015-10-16,De Smet Jesuit,40,Ft. Zumwalt West,61
 2015-10-16,Kirksville,14,Fulton,53
-2015-10-16,Braymer with Breckenridge,14,Gallatin,30
 2015-10-16,Odessa,35,Grain Valley,0
 2015-10-16,Kearney,42,Grandview,0
 2015-10-16,Pleasant Hill,21,Harrisonville,35
@@ -1363,7 +1329,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-16,Hillcrest,0,Joplin,52
 2015-10-16,Chaffee,57,Kelly,51
 2015-10-16,East Prairie,12,Kennett,34
-2015-10-16,South Harrison,20,King City with Union Star,18
+2015-10-16,South Harrison,20,King City with Pattonsburg,18
 2015-10-16,Carrollton,0,Lafayette County,50
 2015-10-16,Carl Junction,34,Lamar,56
 2015-10-16,West Platte,19,Lawson,37
@@ -1392,7 +1358,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-16,Palmyra,33,Monroe City,12
 2015-10-16,Mark Twain,72,Montgomery County,12
 2015-10-16,Thayer,38,Mountain Grove,14
-2015-10-16,Ozark,21,Neosho with Neosho Christian,38
 2015-10-16,Clinton,13,Nevada,14
 2015-10-16,Republic,42,Nixa,27
 2015-10-16,Fredericktown,24,North County,7
@@ -1464,19 +1429,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-17,Confluence Prep Academy Charter,0,McCluer South-Berkeley,46
 2015-10-17,Duchesne,7,MICDS,35
 2015-10-17,Southwest Early College,26,Northeast (Kansas City),24
-2015-10-17,John F. Kennedy with Valley Park,6,Principia,21
 2015-10-17,St. Dominic,19,Priory,25
 2015-10-17,Roosevelt,14,Soldan International Studies,56
 2015-10-17,Butler,34,Summit Christian Academy,42
 2015-10-17,Vashon,46,Sumner,6
-2015-10-17,Carnahan,30,Transportation and Law,32
+2015-10-17,Carnahan,30,Transportation and Law with Beaumont,32
 2015-10-17,Hillsboro,35,University City,27
 2015-10-17,St. Francis Borgia,20,Westminster Christian Academy,37
 2015-10-23,Louisiana,0,Valle Catholic,70
 2015-10-23,Crystal City,8,St. Vincent,17
 2015-10-23,Chaffee,6,Mark Twain,48
 2015-10-23,Cabool,27,Pierce City,26
-2015-10-23,Miller with Everton,16,Lockwood with Golden City,49
 2015-10-23,Sarcoxie,34,Marionville,62
 2015-10-23,North Shelby,0,Knox County,52
 2015-10-23,Schuyler County,6,South Shelby,47
@@ -1497,8 +1460,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-23,Concordia,21,West Platte,68
 2015-10-23,Lone Jack,12,Mid-Buchanan,49
 2015-10-23,Princeton with Mercer,6,Polo,48
-2015-10-23,Maysville,46,King City with Union Star,18
-2015-10-23,Braymer with Breckenridge,0,South Harrison,50
+2015-10-23,Maysville,46,King City with Pattonsburg,18
 2015-10-23,Gallatin,8,Penney,42
 2015-10-23,Charleston,0,Malden,63
 2015-10-23,East Prairie,34,Portageville,18
@@ -1518,7 +1480,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-23,Ash Grove,21,Diamond,24
 2015-10-23,Sherwood,0,Lamar,63
 2015-10-23,Stockton,26,Butler,58
-2015-10-23,Knob Noster,6,Father Tolton,70
+2015-10-23,Knob Noster,6,Father Tolton with Calvary Lutheran,70
 2015-10-23,Hallsville,42,St. Paul Lutheran (Concordia),0
 2015-10-23,Holden,21,Lafayette County,49
 2015-10-23,Cole Camp,47,South Callaway,27
@@ -1553,7 +1515,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-23,Lincoln College Prep,43,East (Kansas City),14
 2015-10-23,Cameron,0,Chillicothe,42
 2015-10-23,St. Pius X (Kansas City),7,Richmond,35
-2015-10-23,Centralia,13,Missouri Military Academy,0
 2015-10-23,Festus,21,Hillsboro,42
 2015-10-23,Perryville,14,Farmington,64
 2015-10-23,DeSoto with Kingston,34,Sikeston,35
@@ -1591,7 +1552,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-23,Ozark,18,Parkview,46
 2015-10-23,Branson,12,Nixa,49
 2015-10-23,Willard,24,Belton,48
-2015-10-23,Ruskin,0,Neosho with Neosho Christian,42
 2015-10-23,Ft. Zumwalt East,9,Parkway Central,22
 2015-10-23,Holt,6,Parkway North,70
 2015-10-23,Parkway West,38,Ft. Zumwalt South,28
@@ -1619,7 +1579,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-23,Rockhurst,21,Raymore-Peculiar,24
 2015-10-24,Monroe City,62,Barat Academy,0
 2015-10-24,Cuba,22,Carnahan,28
-2015-10-24,Transportation and Law,0,Lutheran North,72
+2015-10-24,Transportation and Law with Beaumont,0,Lutheran North,72
 2015-10-24,El Dorado Springs,34,University Academy Charter,0
 2015-10-24,Southeast,6,Summit Christian Academy,42
 2015-10-24,Normandy Collaborative,0,John Burroughs,42
@@ -1628,7 +1588,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-24,Southwest Early College,6,Hogan Prep Academy Charter,59
 2015-10-24,Windsor (Imperial),6,Vashon,34
 2015-10-24,Jennings,0,University City,41
-2015-10-24,John F. Kennedy with Valley Park,0,Westminster Christian Academy,63
 2015-10-24,Liberty (Wentzville),0,Helias Catholic,45
 2015-10-24,McCluer North,12,Hazelwood East,32
 2015-10-24,Francis Howell Central,14,Hazelwood Central,45
@@ -1658,7 +1617,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-30,Strafford,6,Liberty (Mountain View),47
 2015-10-30,Diamond,7,Fair Grove,39
 2015-10-30,El Dorado Springs,6,Lamar,50
-2015-10-30,Hallsville,12,Father Tolton,35
+2015-10-30,Hallsville,12,Father Tolton with Calvary Lutheran,35
 2015-10-30,Cole Camp,0,Lafayette County,38
 2015-10-30,Bishop LeBlond,9,East Buchanan,18
 2015-10-30,Lexington,0,Brookfield,27
@@ -1697,7 +1656,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-10-30,Glendale,34,Republic,71
 2015-10-30,Nixa,49,Parkview,21
 2015-10-30,Belton,54,Smith-Cotton,28
-2015-10-30,Neosho with Neosho Christian,14,Carthage,33
 2015-10-30,Parkway Central,0,Ft. Zumwalt North,35
 2015-10-30,Parkway West,19,Parkway North,14
 2015-10-30,Waynesville,32,Battle,49
@@ -1734,7 +1692,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2015-11-06,Clark County,19,Palmyra,40
 2015-11-06,Fair Grove,0,Liberty (Mountain View),52
 2015-11-06,Summit Christian Academy,7,Lamar,58
-2015-11-06,Lafayette County,59,Father Tolton,29
+2015-11-06,Lafayette County,59,Father Tolton with Calvary Lutheran,29
 2015-11-06,Brookfield,43,East Buchanan,18
 2015-11-06,Central (Park Hills),35,Ste. Genevieve,28
 2015-11-06,Wright City,12,Centralia,43
