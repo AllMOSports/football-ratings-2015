@@ -31,12 +31,6 @@ COMPETITIVE_THRESHOLD = 40
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    ("2015-09-07", "Cardinal Ritter", 27, "Lutheran North", 13),
-    ("2015-09-13", "Cardinal Ritter", 53, "St. Dominic", 14),
-    ("2015-09-21", "Cardinal Ritter", 48, "Helias Catholic", 14),
-    ("2015-09-27", "Cardinal Ritter", 70, "Father Tolton", 14),
-    ("2015-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
-    ("2015-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
  
 # ---------------------------------------------------------------------------
@@ -47,10 +41,8 @@ MANUAL_GAMES = [
 # Team order does not matter — both directions are checked.
  
 EXCLUDED_GAMES = [
-    ("2015-08-30", "Bishop DuBourg with Hancock", "Jefferson (Festus)"),
-    ("2015-08-30", "Ladue Horton Watkins", "Ritenour"),
-    ("2015-11-01", "Lincoln", "Pleasant Hope"),
-    ("2015-11-01", "Duchesne", "Cardinal Ritter"),
+    ("2015-08-21", "North Platte", "Gallatin"),
+    ("2015-10-23", "Centralia", "Missouri Military Academy"),
 ]
  
 HEADERS = {
