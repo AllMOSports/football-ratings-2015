@@ -43,7 +43,6 @@ MANUAL_GAMES = [
     # rating math (calculate_ratings() ignores them entirely), but they do
     # feed the scoreboard CSV and the dedup key, so they should be corrected
     # before treating football_scoreboard_2015.csv as authoritative.
-    ("2015-08-01", "Christian Brothers College", 28, "Christian Brothers College", 21),
     ("2015-08-01", "Kirkwood", 42, "Webster Groves", 13),
 ]
  
